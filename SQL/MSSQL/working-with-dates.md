@@ -1,4 +1,4 @@
-## 📅 1. Current system date and time (DATETIME format)
+## 1. Current system date and time (DATETIME format)
 ```sql
 SELECT GETDATE();
 ```
