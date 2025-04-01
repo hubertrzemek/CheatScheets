@@ -1,5 +1,4 @@
-## 📅 1. Pobranie bieżącej daty i godziny
+## 📅 1. Current system date and time (DATETIME format)
 ```sql
--- Current system date and time (DATETIME format)
 SELECT GETDATE();
 ```
